@@ -57,6 +57,4 @@ controls. A high-risk segment can have a low number of transactions.
 - Correlation does not establish causation. Thresholds should be validated against
   business costs (false positives vs. missed fraud).
 
-## Portfolio presentation
-Explain the work in this order: business problem → data quality → KPI definitions →
-segment findings → monitoring recommendations → limitations.
+
