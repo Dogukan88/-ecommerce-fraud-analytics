@@ -1,0 +1,6 @@
+metric,value
+transactions,12000.0
+fraud_transactions,308.0
+fraud_rate_pct,2.57
+total_transaction_value_try,969652.28
+fraud_value_try,25260.13

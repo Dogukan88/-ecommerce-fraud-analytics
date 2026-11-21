@@ -1,0 +1,7 @@
+merchant_category,transactions,fraud_transactions,transaction_value,fraud_rate_pct
+digital_goods,1437,54,113763.02,3.76
+electronics,2152,85,166851.53,3.95
+fashion,2845,54,229674.06,1.9
+grocery,2373,46,187007.19,1.94
+home,1924,42,164627.26,2.18
+travel,1269,27,107729.22,2.13

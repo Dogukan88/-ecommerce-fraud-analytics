@@ -1,0 +1,4 @@
+payment_method,transactions,fraud_transactions,transaction_value,fraud_rate_pct
+credit_card,6571,159,527451.34,2.42
+debit_card,3391,94,273120.19,2.77
+digital_wallet,2038,55,169080.75,2.7
